@@ -3,7 +3,7 @@ guys clone this repo for the ks
 
 just run `git clone https://github.com/DataByteNITT/github-python-ks.git` to clone this repo.
 
-### Some libraries that you will require tomorow are:
+### Some libraries that you will require tomorrow are:
 - [ ] matplotlib
 - [ ] numpy
 
@@ -84,10 +84,7 @@ _`pip freeze` displays the version number of all modules installed in your Pytho
     requests==2.3.0
     virtualenv==1.11.6
     
-    
- 
- 
- # Linux Installation
+# Linux Installation
  All linux distro's run python natively. Hence there is no need to install python separately. Just check if you pip installation is up to date.
  To update or install pip on Linux/Ubuntu just type in 
  - `sudo apt-get update && sudo apt-get install python-pip`
@@ -99,5 +96,14 @@ _`pip freeze` displays the version number of all modules installed in your Pytho
  Just fire up a terminal and type in
  - `pip install matplotlib`
  - `pip install numpy`
+
+# Pick and Install a Text Editor of choice
+In case you have no idea what a text editor is or don't know which to pick, pick one from the list below
+- Sublime Text
+- Atom
+- Brackets.io
+- Vim
+
+As for their installation, please visit their webistes.
 
 ###### NOTE: In case you get any errors while running the above commads, don't lose hope, just try and look up the error on google and try and fix it.
