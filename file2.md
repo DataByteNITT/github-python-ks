@@ -13,3 +13,6 @@
 	- *master
 	- test-branch
 - to switch to a branch, use `git checkout <branch-name>`, and the currently active branch will be indicated with `*<branch-name>` when you run `git branch` again.
+
+
+### we will look at working as team next....
